@@ -5,7 +5,7 @@ social = document.getElementById("socialLink3").addEventListener("click", myFunc
 
 
 function myFunction() {
-  alert("clicked")
+  alert("Sorry no contact info available at the moment. Try again later")
 }
 
 function myFunction2() {
